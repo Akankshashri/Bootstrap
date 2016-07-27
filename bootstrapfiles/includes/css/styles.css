@@ -24,6 +24,11 @@ body
    -webkit-font-smoothing:antialiased;
    text-rendering: optimizeLegibility;
 }
+.input-group
+{
+
+   margin: 5px 0px;
+}
 #features
 {
    text-align:center;
